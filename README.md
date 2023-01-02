@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @nicfu
-- 👀 I’m interested in using technology to improve anything and everything and make cool stuff.
-- 🌱 I’m currently learning the Python Django framework.
-- 💞️ I’m looking to collaborate on something, but I'm not sure what yet?
-- 📫 How to reach me ...
+#me = **@nicfu**
+ 👀 I use technology to improve everything
+ 🌱 a lifetime spent focused on inventing useful
 
 <!---
 nicfu/nicfu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
