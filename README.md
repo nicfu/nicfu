@@ -1,28 +1,27 @@
-I'm Nic Fouhy
+**I'm Nic Fouhy**
 Leader | Innovator | Full-Stack Developer
 Raumati Beach, New Zealand
 
-What I'm Building
+**What I'm Building**
 I'm the founder of three SaaS ventures that embed AI into real-world business operations:
 
-CallCover.co.nz – AI-powered phone answering assistants that replace traditional voicemail systems
-ClaimPilot.co.nz – Automated claims-matching procurement engine using AI for insurance claim replacement selection
-Incentivise.co.nz – Employee bonus platform for transparent, ROI-driven incentive management
-EmbedAI.co.nz – Software automation consulting, helping businesses embed AI into processes and workflows
+  #CallCover.co.nz – AI-powered phone answering assistants that replace traditional voicemail systems
+  #ClaimPilot.co.nz – Automated claims-matching procurement engine using AI for insurance claim replacement selection
+  #Incentivise.co.nz – Employee bonus platform for transparent, ROI-driven incentive management
+  #EmbedAI.co.nz – Software automation consulting, helping businesses embed AI into processes and workflows
 
 All bootstrapped, all full-stack developed by me in a little over 1 year.
 
-What I Do
+**What I Do**
 With over 15 years of strategic leadership and software development experience, I specialise in designing, building, and deploying software solutions that drive operational efficiency and deliver measurable business value. I align technology initiatives with strategic objectives, creating systems that scale. Previously scaled a certified and authorised NZ technology repair operations hub from inception to New Zealand's largest repair centre business (27,000+ nationwide repairs annually), serving as National Repair Centre Manager, shareholder and member of the executive team.
 
-Tech Stack & Expertise
+**Tech Stack & Expertise**
 Languages & Frameworks:
 JavaScript/TypeScript | Python | React | Next.js
 HTML/CSS | VBA | XML | Flask
-```
 
-**Platforms & Services:**
-```
+**Services & Expertise**
+
 Vapi AI          | OpenAI API      | n8n Automation
 Stripe           | Twilio          | Power BI
 FileMaker Pro    | Postgres        | Azure
